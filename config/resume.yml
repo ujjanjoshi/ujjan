@@ -31,7 +31,7 @@ EXPERIENCE:
 
 LANGUAGES:
   enabled: true
-  display_progress_bars: false
+  display_progress_bars: true
   display_percentage_values: false
   label: "Languages"
   items:
@@ -42,19 +42,19 @@ LANGUAGES:
 
 SKILLS:
   enabled: true
-  display_progress_bars: false
+  display_progress_bars: true
   display_percentage_values: false
   label: "My Skills"
   items:
     - skill: "PHP/Laravel"
-      proficiency: "80%"
+      proficiency: "100%"
     - skill: "NodeJS / ExpressJs"
-      proficiency: "70%"
+      proficiency: "100%"
     - skill: "NestJS"
-      proficiency: "90%"
+      proficiency: "100%"
     - skill: "Python"
-      proficiency: "90%"
+      proficiency: "100%"
     - skill: "MongoDB"
-      proficiency: "50%"
+      proficiency: "100%"
     - skill: "MySQL"
-      proficiency: "50%"
+      proficiency: "100%"
