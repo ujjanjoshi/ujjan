@@ -10,7 +10,7 @@ USER:
   role: "Backend Developer / Freelancer"
   name: "Ujjan Kumar Joshi"
   username: "ujjanjoshi" # <-- This needs to be the same as your GitHub username
-  avatar: "config/assets/avatars/my_avatar_original.png"
+  avatar: "config/assets/avatars/final_avatar.png"
   email: "ujjanjoshi3@gmail.com"
 
 INFO:
