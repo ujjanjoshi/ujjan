@@ -13,16 +13,16 @@ DOING:
   items:
     - title: "API Development"
       icon: "config/assets/icons/server-svgrepo-com.svg"
-      description: "Building robust and scalable RESTful and GraphQL APIs for seamless data exchange."
+      description: "Building robust and scalable RESTful for seamless data exchange."
     - title: "Database Management"
       icon: "config/assets/icons/database.svg"
       description: "Designing, optimizing, and managing SQL and NoSQL databases for high performance."
-    - title: "UI/UX Designing"
-      icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
-      icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
+    - title: "Authentication & Security"
+      icon: "config/assets/icons/lock-alt-svgrepo-com.svg"
+      description: "Implementing secure authentication, authorization, and encryption strategies."
+    - title: "Swagger Documentation"
+      icon: "config/assets/icons/swagger-svgrepo-com.svg"
+      description: "Creating clear and interactive API documentation using Swagger."
 
 SKILLS:
   enabled: true
