@@ -51,6 +51,8 @@ TECHNOLOGIES:
       icon: "config/assets/icons/nodejs-svgrepo-com.svg"
     - title: "NestJS"
       icon: "config/assets/icons/nestjs-svgrepo-com.svg"
+    - title: "Python"
+      icon: "config/assets/icons/python.svg"
     - title: "MongoDB"
       icon: "config/assets/icons/mongodb.svg"
     - title: "MySQL"
