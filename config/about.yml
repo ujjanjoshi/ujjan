@@ -45,8 +45,8 @@ TECHNOLOGIES:
   enabled: true
   label: "Tech Experience"
   items:
-    - title: "Python"
-      icon: "config/assets/icons/python.svg"
+    - title: "Laravel"
+      icon: "config/assets/icons/laravel-svgrepo-com.svg"
     - title: "Flutter"
       icon: "config/assets/icons/flutter.svg"
     - title: "Git"
