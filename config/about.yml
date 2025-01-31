@@ -12,7 +12,7 @@ DOING:
   label: "What I'm doing"
   items:
     - title: "API Development"
-      icon: "config/assets/icons/server.svg"
+      icon: "config/assets/icons/server-svgrepo-com.svg"
       description: "Building robust and scalable RESTful and GraphQL APIs for seamless data exchange."
     - title: "Database Management"
       icon: "config/assets/icons/database.svg"
