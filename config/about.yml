@@ -56,7 +56,7 @@ TECHNOLOGIES:
     - title: "MongoDB"
       icon: "config/assets/icons/mongodb.svg"
     - title: "MySQL"
-      icon: "config/assets/icons/mysql-svgrepo-com.svg"
+      icon: "config/assets/icons/mysql-logo-svgrepo-com.svg"
     - title: "Firebase"
       icon: "config/assets/icons/firebase.svg"
     - title: "Git"
