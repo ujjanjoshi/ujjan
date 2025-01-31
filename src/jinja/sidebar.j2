@@ -23,7 +23,7 @@
         </div>
         <div class="contact-info">
           <p class="contact-title">{{info.label}}</p>
-          {% if info.label==Email%}
+          {% if info.label=="Email"%}
           <a href="mailto:{{info.value}}" class="contact-link">{{info.value}}</a>
           {% else %}
            <a href="#" class="contact-link">{{info.value}}</a>
