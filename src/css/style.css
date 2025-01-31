@@ -746,6 +746,7 @@ main {
 .clients-item {
   min-width: 50%;
   scroll-snap-align: start;
+  text-align: center;
 }
 
 .clients-item img {
@@ -759,10 +760,12 @@ main {
 
 }
 .clients-item a {
-  display: block;
-  text-align: center;
+  display: flex;
+  flex-direction: column; /* Stack the image and text vertically */
+  justify-content: center;
+  align-items: center; /* Center both the image and the span */
   text-decoration: none;
-  color: white; /* Optional: to center the text under the image */
+  color: white;
 }
 
 .clients-item img:hover { filter: grayscale(0); }
