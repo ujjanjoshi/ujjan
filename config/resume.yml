@@ -46,7 +46,7 @@ SKILLS:
   display_percentage_values: false
   label: "My Skills"
   items:
-    - skill: "PHP/Laravel"
+    - skill: "PHP / Laravel"
       proficiency: "100%"
     - skill: "NodeJS / ExpressJs"
       proficiency: "100%"
