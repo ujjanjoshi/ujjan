@@ -32,7 +32,7 @@ EXPERIENCE:
 LANGUAGES:
   enabled: true
   display_progress_bars: true
-  display_percentage_values: false
+  display_percentage_values: true
   label: "Languages"
   items:
     - language: "English"
@@ -43,7 +43,7 @@ LANGUAGES:
 SKILLS:
   enabled: true
   display_progress_bars: true
-  display_percentage_values: false
+  display_percentage_values: true
   label: "My Skills"
   items:
     - skill: "PHP / Laravel"
