@@ -754,10 +754,15 @@ main {
   transition: var(--transition-1);
 }
 .clients-item span{
-  justify-content: center;
+  display: block;
+  margin-top: 10px; 
+
+}
+.clients-item a {
+  display: block;
   text-align: center;
   text-decoration: none;
-  color: white;
+  color: white; /* Optional: to center the text under the image */
 }
 
 .clients-item img:hover { filter: grayscale(0); }
