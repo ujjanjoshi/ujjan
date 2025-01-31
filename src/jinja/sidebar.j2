@@ -37,7 +37,12 @@
       {% for social in profile.SOCIAL %}
       <li class="social-item">
         <a href="{{social.url}}" class="social-link" , target="_blank">
+         
+          {% if social.icon == "config/assets/icons/mobile.svg" %}
+          <img src="{{social.icon}}" alt="Fiverr Icon" width="24" height="24">
+          {% else %}
           <ion-icon name="{{social.icon}}"></ion-icon>
+          {%endif%}
         </a>
       </li>
       {% endfor %}
