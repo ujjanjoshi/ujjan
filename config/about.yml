@@ -3,7 +3,7 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I'm a Backend Developer with a passion for building robust, scalable, and efficient systems. I specialize in designing and implementing server-side logic, databases, and APIs that power seamless digital experiences.
+    I'm a Backend Developer and a Freelancer with a passion for building robust, scalable, and efficient systems. I specialize in designing and implementing server-side logic, databases, and APIs that power seamless digital experiences.
 
     My job is to ensure that everything runs smoothly behind the scenes, from data management to authentication and third-party integrations. I focus on writing clean, maintainable code and optimizing performance to handle high traffic and complex workflows.
 
@@ -11,9 +11,9 @@ DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
-      icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
+    - title: "API Development"
+      icon: "config/assets/icons/server.svg"
+      description: "Building robust and scalable RESTful and GraphQL APIs for seamless data exchange."
     - title: "Scripting"
       icon: "config/assets/icons/code.svg"
       description: "Automation and task scripting using Python to enhance efficiency and productivity."
