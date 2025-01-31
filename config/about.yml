@@ -47,7 +47,7 @@ TECHNOLOGIES:
   items:
     - title: "Laravel"
       icon: "config/assets/icons/laravel-svgrepo-com.svg"
-    - title: "NodeJS/ExpressJS"
+    - title: "NodeJS / ExpressJS"
       icon: "config/assets/icons/nodejs-svgrepo-com.svg"
     - title: "NestJS"
       icon: "config/assets/icons/nestjs-svgrepo-com.svg"
