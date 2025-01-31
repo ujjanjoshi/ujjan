@@ -47,8 +47,8 @@ TECHNOLOGIES:
   items:
     - title: "Laravel"
       icon: "config/assets/icons/laravel-svgrepo-com.svg"
-    - title: "Flutter"
-      icon: "config/assets/icons/flutter.svg"
+    - title: "NodeJS"
+      icon: "config/assets/icons/nodejs-svgrepo-com.svg"
     - title: "Git"
       icon: "config/assets/icons/git.svg"
     - title: "Figma"
